@@ -1,6 +1,6 @@
 # Weekly-Coding-Challenge-1
 
-Problem Statement
+## Problem Statement
 Write a program that accepts sets of three numbers and prints the second-maximum number among the three.
 
 Input	
@@ -25,8 +25,8 @@ Sample Output
 2
 10
 500
-=========================================
-Problem statement
+
+## Problem statement
 Given an alphanumeric string made up of digits and lower case Latin characters only, find the sum of all the digit characters in the string.
 
 Input	
