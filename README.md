@@ -49,3 +49,6 @@ Output:
 
 Explanation
 The digits in this string are 1, 2, 3 and 1. Hence, the sum of all of them is 7.
+
+## Run python -m unittest testcases.py
+This will show that my solution passes the test cases provided. As well as used to test other cases.
